@@ -1,2 +1,0 @@
-# sharing-scraper
-kumpulan scraper!!
